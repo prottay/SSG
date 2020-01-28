@@ -1,0 +1,2 @@
+# SSG
+Synchrophasor Synchronization Gateway
